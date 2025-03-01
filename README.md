@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hinal_0101" target="blank"><img src="https://img.shields.io/twitter/follow/hinal_0101?logo=twitter&style=for-the-badge" alt="hinal_0101" /></a> </p>
 
-- 🔭 I’m currently working on **SAP Cloud Integration**
+- 🔭 I’m currently working on **SAP PI/PO/Cloud Integration**
 
-- 📫 How to reach me **hinaljethava112002@gmail.com**
+- 📫 Reach me out here **hinaljethava112002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
