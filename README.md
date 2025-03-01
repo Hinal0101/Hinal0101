@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/hinal_0101" target="blank"><img src="https://img.shields.io/twitter/follow/hinal_0101?logo=twitter&style=for-the-badge" alt="hinal_0101" /></a> </p>
 
-- 🔭 I’m currently working on **SAP PI/PO/Cloud Integration**
+- 🔭 I’m currently working on **SAP Cloud Integration**
 
-- 📫 Reach me out here **hinaljethava112002@gmail.com**
+- 📫 How to reach me **hinaljethava112002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hinal_0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinal_0101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hinal jethava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinal jethava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hinal-jethava-b17758215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hinal-jethava-b17758215/" height="30" width="40" /></a>
 <a href="https://instagram.com/hinal0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hinal0101" height="30" width="40" /></a>
 <a href="https://medium.com/@hinaljethava112002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hinaljethava112002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hinaljethava1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hinaljethava1121" height="30" width="40" /></a>
