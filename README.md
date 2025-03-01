@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hinal0101&label=Profile%20views&color=0e75b6&style=flat" alt="hinal0101" /> </p>
 
-- 🔭 I’m currently working on **SAP Cloud Integration**
+- 🔭 I’m currently working on **SAP PI/PO/Cloud Integration**
 
 - 📫 How to reach me **hinaljethava112002@gmail.com**
 
