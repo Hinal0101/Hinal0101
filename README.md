@@ -11,7 +11,7 @@ Technology excites me and I am always ready to accept the new technologies. Cert
 
 ## About Me
 - 🔭 I’m currently working on **SAP PI/PO/CPI**
-- 🌱 I’m learning **SAP PI/PO/CPI, Python, Java, C, DSA**
+- 🌱 I’m learning **SAP PI/PO/CPI, Python, Java, C, DSA, HTML, CSS, Javascript**
 - 📫 Reach me at: **hinaljethava112002@gmail.com**
 
 ## 🛠️ Technologies & Tools
