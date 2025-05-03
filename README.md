@@ -7,7 +7,7 @@ I am an enthusiastic SAP PI/PO/CPI Consultant with 1 year of experience in SAP C
 I have worked on synchronous, asynchronous, and B2B integration scenarios, leveraging various adapters and protocols to ensure smooth data exchange. Additionally, I am skilled in monitoring, maintaining, and securing integration flows, ensuring optimal performance and compliance with security standards.
 
 I am passionate about solving integration challenges and continuously enhancing my expertise in SAP integration technologies to drive digital transformation.
-Technology excites me and I am always ready to accept the new technologies. Certain skills that I have gained is with Data Structures and Algorithms (Java), Web development (HTML/CSS), Database (MySQL),  Backend (Python). And what I might lack in skills I make for it with the determination to learn.
+Technology excites me and I am always ready to accept the new technologies. Certain skills that I have gained is with Data Structures and Algorithms (Java), Web development (HTML/CSS), Database (MySQL),  Backend (Python), Git, Github. And what I might lack in skills I make for it with the determination to learn.
 
 ## About Me
 - 🔭 I’m currently working on **SAP PI/PO/CPI**
